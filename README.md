@@ -12,8 +12,8 @@
 
 ### Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Hasan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/mohammad-hasan-abdelqader-7a833b32a/)
-[![Telegram](https://img.shields.io/badge/Telegram-Mohammad_Hasan-0077B5?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=20)](https://t.me/Mohammad_Hasan01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramez_Alkhabbas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/ramez-alkhabbas-33a258347)
+[![Telegram](https://img.shields.io/badge/Telegram-Ramez_Alkhabbas-0077B5?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=20)](https://t.me/Rzkxc)
 
 # 💻 Tech Stack:
 ## programming languages:
